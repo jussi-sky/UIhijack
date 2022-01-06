@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">UIHiJack</string>
+    <string name="hello_world">UI_HiJack_Test</string>
+    <string name="info">Activity界面劫持测试页面@Jussi</string>
+
+    <string name="username">帐号</string>
+    <string name="password">密码</string>
+    <string name="Button">登录</string>
+    <string name="Button1">取消</string>
+
+    <string name="warn"> 警告: 环境错误, 请输入帐号密码进行安全验证！</string>
+
+    <string name="action_settings">Settings</string>
+
+    <color name="transparent">#acC0C0C0</color>
+
+</resources>
